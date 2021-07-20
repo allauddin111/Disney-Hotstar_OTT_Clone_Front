@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Disney-Hotstar_OTT_Clone_Front/static/css/main.ebce8fb3.chunk.css",
-    "main.js": "/Disney-Hotstar_OTT_Clone_Front/static/js/main.042cefb9.chunk.js",
-    "main.js.map": "/Disney-Hotstar_OTT_Clone_Front/static/js/main.042cefb9.chunk.js.map",
+    "main.js": "/Disney-Hotstar_OTT_Clone_Front/static/js/main.0841c0df.chunk.js",
+    "main.js.map": "/Disney-Hotstar_OTT_Clone_Front/static/js/main.0841c0df.chunk.js.map",
     "runtime-main.js": "/Disney-Hotstar_OTT_Clone_Front/static/js/runtime-main.a661b33b.js",
     "runtime-main.js.map": "/Disney-Hotstar_OTT_Clone_Front/static/js/runtime-main.a661b33b.js.map",
     "static/css/2.7f6326c7.chunk.css": "/Disney-Hotstar_OTT_Clone_Front/static/css/2.7f6326c7.chunk.css",
@@ -14,13 +14,20 @@
     "static/css/2.7f6326c7.chunk.css.map": "/Disney-Hotstar_OTT_Clone_Front/static/css/2.7f6326c7.chunk.css.map",
     "static/css/main.ebce8fb3.chunk.css.map": "/Disney-Hotstar_OTT_Clone_Front/static/css/main.ebce8fb3.chunk.css.map",
     "static/js/2.79c2ea4b.chunk.js.LICENSE.txt": "/Disney-Hotstar_OTT_Clone_Front/static/js/2.79c2ea4b.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/Disney-Hotstar_OTT_Clone_Front/static/media/slick.c94f7671.ttf"
+    "static/media/home-icon.b6a11f9b.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/home-icon.b6a11f9b.svg",
+    "static/media/logo.8205aae8.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/logo.8205aae8.svg",
+    "static/media/movie-icon.1a6f6ada.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/movie-icon.1a6f6ada.svg",
+    "static/media/original-icon.d7752d89.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/original-icon.d7752d89.svg",
+    "static/media/search-icon.46aff20f.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/search-icon.46aff20f.svg",
+    "static/media/series-icon.4d410db6.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/series-icon.4d410db6.svg",
+    "static/media/slick-theme.css": "/Disney-Hotstar_OTT_Clone_Front/static/media/slick.c94f7671.ttf",
+    "static/media/watchlist-icon.0b5a945b.svg": "/Disney-Hotstar_OTT_Clone_Front/static/media/watchlist-icon.0b5a945b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a661b33b.js",
     "static/css/2.7f6326c7.chunk.css",
     "static/js/2.79c2ea4b.chunk.js",
     "static/css/main.ebce8fb3.chunk.css",
-    "static/js/main.042cefb9.chunk.js"
+    "static/js/main.0841c0df.chunk.js"
   ]
 }
