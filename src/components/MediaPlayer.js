@@ -7,7 +7,7 @@ import ReactHlsPlayer from 'react-hls-player';
 function MediaPlayer() {
     return (
         <Container>
-        <ReactHlsPlayer src="https://bitdash-a.akamaihd.net/contnt/sintel/hls/playlist.m3u8"
+        <ReactHlsPlayer src="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
         autoPlay={true}
     controls={true}
     width="100%"
